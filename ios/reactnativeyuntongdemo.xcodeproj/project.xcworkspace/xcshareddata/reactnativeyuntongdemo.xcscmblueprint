@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6150BCDDCFD83D25274CA6944DB781A7F0015181",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5B04FB2794BD192AE8A4E6F807319D15C7F730C" : 9223372036854775807,
+    "6150BCDDCFD83D25274CA6944DB781A7F0015181" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "85600E67-FC2D-45AC-8C9E-1799884D9547",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5B04FB2794BD192AE8A4E6F807319D15C7F730C" : "react-native-yuntongxun-demo\/node_modules\/react-native-yuntongxun\/",
+    "6150BCDDCFD83D25274CA6944DB781A7F0015181" : "react-native-yuntongxun-demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "reactnativeyuntongdemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/reactnativeyuntongdemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lotosbin\/react-native-yuntongxun-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6150BCDDCFD83D25274CA6944DB781A7F0015181"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lotosbin\/react-native-yuntongxun.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5B04FB2794BD192AE8A4E6F807319D15C7F730C"
+    }
+  ]
+}
