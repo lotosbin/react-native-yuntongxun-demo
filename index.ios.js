@@ -11,8 +11,17 @@ import {
   Text,
   View
 } from 'react-native';
+import { NativeModules } from 'react-native';
+var YuntongxunManager = NativeModules.YuntongxunManager;
+
+import RCTYuntongxun from 'react-native-yuntongxun';
 
 export default class reactnativeyuntongdemo extends Component {
+  componentDidMount(){
+    // console.log(JSON.stringify(NativeModules));
+    YuntongxunManager.initModule();
+    YuntongxunManager.addEvent('Birthday Party', '4 Privet Drive, Surrey');
+  }
   render() {
     return (
       <View style={styles.container}>

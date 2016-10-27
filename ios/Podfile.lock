@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../../yuntongxun"
 
 SPEC CHECKSUMS:
-  yuntongxun-full-sdk: 4d1ea5b7f6c54bd2fbf7e76d9346db06b55406fe
+  yuntongxun-full-sdk: e1fb19c59707b7fd75cb1cbb5d03b3c31e316684
 
-PODFILE CHECKSUM: cd38d795564883bb135d4fb5493124780471761d
+PODFILE CHECKSUM: 348ba06f3ecd524be2a5d201865985fbdcccd9a4
 
 COCOAPODS: 1.1.0.beta.1
