@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../../yuntongxun"
 
 SPEC CHECKSUMS:
-  yuntongxun-full-sdk: e1fb19c59707b7fd75cb1cbb5d03b3c31e316684
+  yuntongxun-full-sdk: 3df3a1c8734e1f1e39158933e57bd409a93add9d
 
 PODFILE CHECKSUM: 348ba06f3ecd524be2a5d201865985fbdcccd9a4
 

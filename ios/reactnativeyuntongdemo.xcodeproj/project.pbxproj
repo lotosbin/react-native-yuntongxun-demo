@@ -16,14 +16,14 @@
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
 		139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139FDEF41B06529B00C62182 /* libRCTWebSocket.a */; };
-		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
+		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		3577B5260C71AC8DCB01882C /* libPods-reactnativeyuntongdemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CAD712651053FED8CDEDF866 /* libPods-reactnativeyuntongdemo.a */; };
-		4D31CE4F1DC2583B0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D31CE4E1DC2583B0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */; };
+		4D31CE7D1DC25D1A0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D31CE7C1DC25D1A0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */; };
 		4D9D7C8E1DC1ACD600551ACB /* libRCTYuntongxunIMLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D9D7C8B1DC1ACC900551ACB /* libRCTYuntongxunIMLib.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		E6610987A2487DDE36FC251D /* libPods-reactnativeyuntongdemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F338CA135D0ABE8E290DBDA /* libPods-reactnativeyuntongdemoTests.a */; };
@@ -180,14 +180,14 @@
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* reactnativeyuntongdemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = reactnativeyuntongdemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = reactnativeyuntongdemo/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = reactnativeyuntongdemo/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = reactnativeyuntongdemo/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = reactnativeyuntongdemo/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = reactnativeyuntongdemo/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = reactnativeyuntongdemo/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
 		3F338CA135D0ABE8E290DBDA /* libPods-reactnativeyuntongdemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-reactnativeyuntongdemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4D31CE4E1DC2583B0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = YTX_iOS_Full_SDK_v5.3.0r1.a; path = ../../yuntongxun/YTX_iOS_Full_SDK/lib/YTX_iOS_Full_SDK_v5.3.0r1.a; sourceTree = "<group>"; };
+		4D31CE7C1DC25D1A0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = YTX_iOS_Full_SDK_v5.3.0r1.a; path = ../../yuntongxun/YTX_iOS_Full_SDK/lib/YTX_iOS_Full_SDK_v5.3.0r1.a; sourceTree = "<group>"; };
 		4F0A3D78F595533E708CAD76 /* Pods-reactnativeyuntongdemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactnativeyuntongdemoTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-reactnativeyuntongdemoTests/Pods-reactnativeyuntongdemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		7C2DC99670F08E67EADC506C /* Pods-reactnativeyuntongdemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactnativeyuntongdemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-reactnativeyuntongdemo/Pods-reactnativeyuntongdemo.release.xcconfig"; sourceTree = "<group>"; };
@@ -211,7 +211,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4D31CE4F1DC2583B0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a in Frameworks */,
+				4D31CE7D1DC25D1A0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a in Frameworks */,
 				4D9D7C8E1DC1ACD600551ACB /* libRCTYuntongxunIMLib.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
@@ -292,7 +292,7 @@
 		00FBB79FA83BD5CC11239678 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4D31CE4E1DC2583B0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */,
+				4D31CE7C1DC25D1A0017431D /* YTX_iOS_Full_SDK_v5.3.0r1.a */,
 				CAD712651053FED8CDEDF866 /* libPods-reactnativeyuntongdemo.a */,
 				3F338CA135D0ABE8E290DBDA /* libPods-reactnativeyuntongdemoTests.a */,
 			);
@@ -322,7 +322,7 @@
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
-				13B07FB01A68108700A75B9A /* AppDelegate.m */,
+				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
@@ -815,7 +815,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -891,9 +891,11 @@
 			baseConfigurationReference = 10CCA15E19AC38428CF7F458 /* Pods-reactnativeyuntongdemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LIBRARY = "libstdc++";
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = TT5SA69489;
+				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -923,8 +925,10 @@
 			baseConfigurationReference = 7C2DC99670F08E67EADC506C /* Pods-reactnativeyuntongdemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LIBRARY = "libstdc++";
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TT5SA69489;
+				ENABLE_BITCODE = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
